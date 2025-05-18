@@ -1,0 +1,3 @@
+[submodule "vendor/paradox"]
+	path = vendor/paradox
+	url = https://github.com/BlueMoonHunt/paradox.git
